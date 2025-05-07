@@ -1,5 +1,0 @@
-# Created at 2025-05-05T14:25:37.108
-Boot Manifest-JAR contains absolute paths in classpath 'E:\StarAgile\ProgramWorkspace\Practice\DEVOPS\CRMDevOps\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
